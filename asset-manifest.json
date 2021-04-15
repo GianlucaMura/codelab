@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/damian/app/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/damian/app/static/js/main.6a88599a.chunk.js",
+    "main.js.map": "/damian/app/static/js/main.6a88599a.chunk.js.map",
+    "runtime-main.js": "/damian/app/static/js/runtime-main.a46d8e28.js",
+    "runtime-main.js.map": "/damian/app/static/js/runtime-main.a46d8e28.js.map",
+    "static/js/2.bf56c8d4.chunk.js": "/damian/app/static/js/2.bf56c8d4.chunk.js",
+    "static/js/2.bf56c8d4.chunk.js.map": "/damian/app/static/js/2.bf56c8d4.chunk.js.map",
+    "index.html": "/damian/app/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/damian/app/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.bf56c8d4.chunk.js.LICENSE.txt": "/damian/app/static/js/2.bf56c8d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a46d8e28.js",
+    "static/js/2.bf56c8d4.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.6a88599a.chunk.js"
+  ]
+}
